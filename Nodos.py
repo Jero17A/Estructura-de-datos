@@ -87,4 +87,4 @@ while True:
         print("Programa terminado")
         break
     else:
-        print("Opcion no valida")
+        print("Opcion no valida.")
